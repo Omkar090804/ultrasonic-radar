@@ -1,4 +1,4 @@
-# ultrasonic-radar
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -20,8 +20,8 @@
 
    <ul>
         <li><strong>Arduino UNO</strong>: Controls the servo motor and interfaces with the ultrasonic sensor.</li>
-        <li><strong>Servo Motor</strong>: Rotates the ultrasonic sensor platform horizontally (pan).</li>
-        <li><strong>Ultrasonic Sensor (HC-SR04)</strong>: Measures distances based on sound reflection.</li>
+        <li><strong>Servo Motor</strong>: Rotates the ultrasonic sensor platform horizontally.</li>
+        <li><strong>Ultrasonic Sensor </li>
         <li><strong>Computer</strong>: Runs the Processing sketch to visualize radar data.</li>
     </ul>
 
@@ -39,7 +39,6 @@
         </li>
         <li><strong>Upload Arduino Sketch</strong>:
             <ul>
-                <li>Open <code>arduino/servo_ultrasonic_radar.ino</code> in Arduino IDE  .</li>
                 <li>Verify and upload the sketch to your Arduino board.</li>
             </ul>
         </li>
